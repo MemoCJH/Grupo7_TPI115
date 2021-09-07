@@ -1,0 +1,19 @@
+zona {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: rgb(255, 255, 255);
+    display:block;
+}
+
+temperatura{
+    font-family: Arial, Helvetica, sans-serif; 
+    color: rgb(255, 0, 0);
+    display:list-item;
+    list-style: upper-alpha inside;
+}
+
+minima, promedio, maxima {
+    font-family: Arial, Helvetica, sans-serif; 
+    color: rgb(8, 247, 0);
+    display:block;
+}

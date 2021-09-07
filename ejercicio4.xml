@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- ejercicio4.xml  AL13013/AB13027 -->
+
+<?xml-stylesheet type="text/css" href="ejercicio4.css" ?>
+
+<pais>
+<zona id="1" name="central"> 
+<temperatura>
+<minima>24ºC</minima>
+<promedio>25ºC</promedio>
+<maxima>26ºC</maxima>
+</temperatura>
+</zona>
+
+<zona id="2" name="occidental">
+<temperatura>
+<minima>18ºC</minima>
+<promedio>21ºC</promedio>
+<maxima>24ºC</maxima>
+</temperatura>
+</zona>
+
+<zona id="3" name="oriental"> 
+<temperatura> 
+<minima>22 ºC</minima>
+<promedio>24 ºC</promedio>
+<maxima>27 ºC</maxima>
+</temperatura>
+</zona>
+</pais>
