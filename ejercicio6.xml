@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ejercicio6.css"?>
+<!-- ejercicio6.xml DR15013 y HL18006-->
+
+<estudiante carnet="DR15013">
+  <nombre>Irving Eduardo</nombre>
+  <apellido>De la Cruz Rivas</apellido>
+  <materia>
+    <materia1 codigo="TPI115">
+      <nombre>Tecnicas de Programación para Internet</nombre>
+      <horario>
+      <titulo>Teorico: </titulo>
+        <teorico id="1" codDias="M-V">
+          <hora>8:00 - 9:45</hora>
+        </teorico>
+      <titulo>Laboratorio: </titulo>
+        <laboratorio id="4" codDia="X">
+          <hora>9:45 - 11:30</hora>
+        </laboratorio>
+      </horario>
+    </materia1>
+    <materia2 codigo="COS115">
+      <nombre>Comunicaciones 1</nombre>
+      <horario>
+      <titulo>Teorico: </titulo>
+        <teorico id="1" codDias="L-X">
+          <hora>6:20 - 8:00</hora>
+        </teorico>
+      <titulo>Laboratorio: </titulo>
+        <laboratorio id="1" codDia="X">
+          <hora>8:05 - 9:45</hora>
+        </laboratorio>
+      </horario>
+    </materia2>
+    <materia3 codigo="SIO115">
+      <nombre>Sistemas Operativos</nombre>
+      <horario>
+      <titulo>Teorico: </titulo>
+        <teorico id="1" codDias="M-V">
+          <hora>18:35 - 20:15</hora>
+        </teorico>
+      <titulo>Laboratorio: </titulo>
+        <laboratorio id="3" codDia="J">
+          <hora>18:35 - 20:15</hora>
+        </laboratorio>
+      </horario>
+    </materia3>
+  </materia>
+</estudiante>
