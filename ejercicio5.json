@@ -1,0 +1,38 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Sara Lance",
+				"telfijo": "12345678",
+				"celular": "76547310",
+				"direccion": "Calle la cruz avenida las flores",
+				"correo": "slance@ejemplo.com",
+				"_id": "1"
+			},
+			{
+				"nombre": "Rene Villatoro",
+				"telfijo": "87654321",
+				"celular": "01234567",
+				"direccion": "Colonia maracuya, #4",
+				"correo": "rvillatoro@ejemplo.com",
+				"_id": "2"
+			},
+			{
+				"nombre": "Francisco Javier",
+				"telfijo": "55556666",
+				"celular": "77889966",
+				"direccion": "Avenida las margaritas, 56",
+				"correo": "fjavier@ejemplo.com",
+				"_id": "3"
+			},
+			{
+				"nombre": "Karen Guillen",
+				"telfijo": "66556655",
+				"celular": "76339565",
+				"direccion": "Calle los naranjos, 407",
+				"correo": "kguillen@ejemplo.com",
+				"_id": "4"
+			}
+		]
+	}
+}

@@ -1,0 +1,30 @@
+{
+    "pais": {
+      "zona": [
+        {
+          "#text": "Zona Central",
+          "temperatura": {
+            "minima": "Minima 24ºC",
+            "promedio": "Promedio 25ºC",
+            "maxima": "Maxima 26ºC"
+          }
+        },
+        {
+          "#text": "Zona occidental",
+          "temperatura": {
+            "minima": "Minima 18ºC",
+            "promedio": "Promedio 21ºC",
+            "maxima": "Maxima 24ºC"
+          }
+        },
+        {
+          "#text": "Zona oriental",
+          "temperatura": {
+            "minima": "Minima 22ºC",
+            "promedio": "Promedio 24ºC",
+            "maxima": "Maxima 27ºC"
+          }
+        }
+      ]
+    }
+  }

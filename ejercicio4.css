@@ -1,19 +1,47 @@
+pais{
+    background-color:#7999a8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px; ;
+    color:#17140d;
+    display:inline;
+    text-align: center;
+    display: table;
+    width: 600px;
+    margin-left:  auto;
+    margin-right: auto; 
+    margin-top: 80px;   
+    
+}
+pais::before{
+    content: "Pronostico de temperatura en el pais";
+    display: table-caption; 
+    font: bold italic 50px verdana; 
+    color: rgb(9, 9, 12);
+    text-align: center;
+    margin-bottom: 4px;
+}
+
 zona {
-    background-color: black;
+    
     font-family: Arial, Helvetica, sans-serif; 
-    color: rgb(255, 255, 255);
-    display:block;
+    color:#27506c;
+    display:table-caption;
+    border-spacing:10px;
+    border: black 2px solid;
+     
 }
 
 temperatura{
-    font-family: Arial, Helvetica, sans-serif; 
-    color: rgb(255, 0, 0);
-    display:list-item;
-    list-style: upper-alpha inside;
+      
+    display:table-header-group;
+    text-align: center;
+    
 }
 
 minima, promedio, maxima {
     font-family: Arial, Helvetica, sans-serif; 
-    color: rgb(8, 247, 0);
-    display:block;
+    color:#e0e0e0;
+    display:table-cell;
+    border: black 1px solid;
+   
 }
