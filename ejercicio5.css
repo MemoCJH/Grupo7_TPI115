@@ -1,19 +1,20 @@
 agenda{
     display: table;
-    border: 5px double rgb(71, 173, 233) ;
+    border: 5px double rgb(36, 83, 136) ;
     width: 800px;
     margin-left:  auto;
     margin-right: auto; 
     margin-top: 80px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #76b3cf;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 agenda::before{
     content: "Mis Contactos";
     display: table-caption; 
     font: bold italic 20px verdana; 
-    color: rgb(43, 43, 124);
+    color: rgb(9, 9, 12);
     text-align: center;
     margin-bottom: 4px;
 }
@@ -26,7 +27,7 @@ cabecera{
 
 nom,tel,cel,dir,mail{
     display: table-cell;
-    border: 1px double rgb(2, 56, 87);
+    border: 1px double rgb(71, 76, 80);
 }
 
 contacto{
@@ -36,7 +37,7 @@ contacto{
 
 nombre,telfijo,celular,direccion,correo{
     display: table-cell;
-    border: 1px double rgb(2, 56, 87);
+    border: 1px double rgb(71, 76, 80);
     border-collapse: collapse; 
     padding: 7px 7px;
 }
