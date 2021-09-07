@@ -1,0 +1,57 @@
+{
+   "estudiante": {
+      "nombre": "Irving Eduardo",
+      "apellido": "De la Cruz Rivas",
+      "materia": {
+         "materia1": {
+            "nombre": "Tecnicas de Programación para Internet",
+            "horario": {
+               "teorico": {
+                  "hora": "8:00 - 9:45",
+                  "_id": "1",
+                  "_codDias": "M-V"
+               },
+               "laboratorio": {
+                  "hora": "9:45 - 11:30",
+                  "_id": "4",
+                  "_codDia": "X"
+               }
+            },
+            "_codigo": "TPI115"
+         },
+         "materia2": {
+            "nombre": "Comunicaciones 1",
+            "horario": {
+               "teorico": {
+                  "hora": "6:20 - 8:00",
+                  "_id": "1",
+                  "_codDias": "L-X"
+               },
+               "laboratorio": {
+                  "hora": "8:05 - 9:45",
+                  "_id": "1",
+                  "_codDia": "X"
+               }
+            },
+            "_codigo": "COS115"
+         },
+         "materia3": {
+            "nombre": "Sistemas Operativos",
+            "horario": {
+               "teorico": {
+                  "hora": "18:35 - 20:15",
+                  "_id": "1",
+                  "_codDias": "M-V"
+               },
+               "laboratorio": {
+                  "hora": "18:35 - 20:15",
+                  "_id": "3",
+                  "_codDia": "J"
+               }
+            },
+            "_codigo": "SIO115"
+         }
+      },
+      "_carnet": "DR15013"
+   }
+}
