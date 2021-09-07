@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio5.css"?>
+<!-- agenda de contactos -->
+<agenda>
+<!-- Estas estiquetas solo son para agregar cabecera a nuestra tabla -->
+<cabecera>
+    <nom>Nombre</nom>
+    <tel>Telefono  Fijo</tel>
+    <cel>Celular</cel>
+    <dir>Direccion</dir>
+    <mail>Email</mail>
+</cabecera>
+
+<contacto id="1">
+<nombre>Sara Lance</nombre>
+<telfijo>12345678</telfijo>
+<celular>76547310</celular>
+<direccion>Calle la cruz avenida las flores</direccion>
+<correo>slance@ejemplo.com</correo>
+</contacto>
+
+<contacto id="2">
+<nombre>Rene Villatoro</nombre>
+<telfijo>87654321</telfijo>
+<celular>01234567</celular>
+<direccion>Colonia maracuya, #4</direccion>
+<correo>rvillatoro@ejemplo.com</correo>
+</contacto>
+
+<contacto id="3">
+<nombre>Francisco Javier</nombre>
+<telfijo>55556666</telfijo>
+<celular>77889966</celular>
+<direccion>Avenida las margaritas, 56</direccion>
+<correo>fjavier@ejemplo.com</correo>
+</contacto>
+
+<contacto id="4">
+<nombre>Karen Guillen</nombre>
+<telfijo>66556655</telfijo>
+<celular>76339565</celular>
+<direccion>Calle los naranjos, 407</direccion>
+<correo>kguillen@ejemplo.com</correo>
+</contacto>
+
+</agenda>
